@@ -1,31 +1,24 @@
-# Scripts Cyber
+# ⚙️ Scripts Cyber – Automação e Ferramentas de Segurança
 
-## Visão Geral
-Este repositório tem como objetivo armazenar scripts utilizados e criados durante atividades relacionadas à **cibersegurança**, automação de tarefas e testes práticos. É um espaço para consolidar ferramentas úteis que otimizam o fluxo de trabalho e aplicam o conhecimento de programação em desafios de segurança.
+Este repositório reúne **scripts desenvolvidos para automação** de tarefas e criação de ferramentas voltadas para **segurança cibernética**.
 
----
+## 🔍 Importância
+Automação é fundamental na cibersegurança moderna, pois **reduz tempo de resposta**, **evita erros manuais** e **potencializa a eficiência operacional** em operações de segurança.
 
-### Por que criar scripts?
-* Automatiza tarefas repetitivas e economiza tempo.
-* Permite execução padronizada de processos.
-* Ajuda na resposta rápida a incidentes.
-* Desenvolve habilidades em linguagens como **Python**, **Bash** e **PowerShell**.
+## 🎯 Por que estudar
+- Melhora habilidades de **programação voltadas à segurança**.  
+- Facilita a criação de **ferramentas personalizadas**.  
+- Ajuda na **integração de processos de monitoramento e defesa**.  
 
-### Tipos de scripts que serão adicionados
-* Coleta e análise de logs.
-* Escaneamento de redes.
-* Enumeradores de serviços.
-* Scripts para análise forense.
-* Automatização de hardening.
-* Scripts de backup e recuperação.
-* Códigos auxiliares para **CTFs**.
-* Criação de relatórios automatizados.
+## 📌 Conteúdo Abordado
+- Scripts para varredura de vulnerabilidades.
+- Automação de tarefas de pentest.
+- Coleta e análise de logs.
+- Integração com APIs de segurança.
+- Ferramentas customizadas para Red Team e Blue Team.
 
-### Benefícios
-* Reutilização em projetos reais.
-* Facilidade na criação de playbooks.
-* Compartilhamento com a comunidade.
+> **Palavras-chave:** automação, scripts, Python, Bash, pentest, varredura de vulnerabilidades, integração, APIs de segurança.
 
 ---
 
-**Status**: Scripts serão adicionados e versionados com o tempo, sempre acompanhados de documentação e exemplos de uso.
+🔗 [⬅️ Voltar para o Cyber Security Lab](https://github.com/DarwinSecc/cyber-security-lab)
