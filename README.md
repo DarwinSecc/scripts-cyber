@@ -21,4 +21,4 @@ Automação é fundamental na cibersegurança moderna, pois **reduz tempo de res
 
 ---
 
-🔗 [⬅️ Voltar para o Cyber Security Lab](https://github.com/DarwinSecc/cyber-security-lab)
+🔗 [⬅️ Voltar para o Cybersecurity Portfolio](https://github.com/DarwinSecc/cybersecurity-portfolio)
